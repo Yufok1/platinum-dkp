@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "fixture_event_clean_wheat",
+    "name": "KACHONKY Receipt Drop",
+    "timestamp_utc": "2026-05-04T18:00:00Z",
+    "origin_surface": "public_post",
+    "joke_phrase": "KACHONKY",
+    "token_ticker": "DKP",
+    "contract_address": "F61Njyf8faE4NwrEmByWcdp8M56UHGeVaaQJPFGopump",
+    "chain": "solana",
+    "media_artifact_links": [],
+    "meme_variants": ["kachonky", "kapinky", "pi bag"],
+    "confidence": "fixture"
+  },
+  "signals": {
+    "mention_velocity_zscore": 0.85,
+    "unique_author_growth": 0.8,
+    "engagement_weighted_mentions": 0.7,
+    "meme_variant_growth": 0.75,
+    "cross_surface_spread": 0.8,
+    "contract_or_ticker_proximity": 0.9,
+    "holder_growth_signal": 0.7,
+    "liquidity_growth_signal": 0.65,
+    "bot_chaff_penalty": 0.05,
+    "whale_concentration_penalty": 0.1,
+    "wash_volume_penalty": 0.05
+  },
+  "snapshots": {
+    "t_minus_24h": {
+      "price": 0.001,
+      "liquidity": 12000,
+      "holders": 420,
+      "mentions_per_hour": 6
+    },
+    "t_plus_24h": {
+      "price_change_percent": 18.5,
+      "liquidity_change_percent": 22.0,
+      "new_holders": 160,
+      "unique_authors": 91
+    },
+    "t_plus_72h": {
+      "retained_holders": 118,
+      "top_10_holder_percent": 39.5
+    }
+  },
+  "expected": {
+    "verdict": "Wheat",
+    "rci_range": [70, 80]
+  }
+}

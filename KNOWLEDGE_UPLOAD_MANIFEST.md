@@ -24,6 +24,7 @@ Upload these files into the Custom GPT Knowledge area.
 2. `LAUNCH_ANNOUNCEMENT.md`
 3. `SOURCES.md`
 4. `smartest.txt`
+5. `docs/WHEAT_FARM_ZEUS_IMPLEMENTATION_PLAN.md`
 
 ## Brotology
 

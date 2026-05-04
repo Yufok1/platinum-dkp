@@ -1,0 +1,12 @@
+rci_weights:
+  mention_velocity_zscore: 1.2
+  unique_author_growth: 1.1
+  engagement_weighted_mentions: 0.8
+  meme_variant_growth: 0.7
+  cross_surface_spread: 1.0
+  contract_or_ticker_proximity: 1.0
+  holder_growth_signal: 1.2
+  liquidity_growth_signal: 1.0
+  bot_chaff_penalty: -1.5
+  whale_concentration_penalty: -1.2
+  wash_volume_penalty: -1.3

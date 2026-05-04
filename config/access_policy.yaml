@@ -1,0 +1,39 @@
+safe_auto_approve:
+  - read
+  - get
+  - list
+  - search
+  - status
+  - info
+  - tree
+  - catalog
+  - inspect
+  - diff_preview
+
+manual_approval_required:
+  - write
+  - edit
+  - append
+  - update
+  - mutate
+  - delete
+  - rename
+  - copy
+  - restore
+  - execute
+  - run
+  - deploy
+  - train
+  - plug
+  - proxy
+  - regenerate
+  - verify_execute
+
+absolute_safety_gates:
+  - private keys
+  - seed phrases
+  - wallet credentials
+  - API secrets
+  - session cookies
+  - private account data
+  - non-public personal information

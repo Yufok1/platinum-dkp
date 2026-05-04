@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "fixture_event_value_only_no_social",
+    "name": "Silent Chest Motion",
+    "timestamp_utc": "2026-05-04T21:00:00Z",
+    "origin_surface": "market_only",
+    "joke_phrase": "no public joke wave",
+    "token_ticker": "DKP",
+    "contract_address": "F61Njyf8faE4NwrEmByWcdp8M56UHGeVaaQJPFGopump",
+    "chain": "solana",
+    "media_artifact_links": [],
+    "meme_variants": [],
+    "confidence": "fixture"
+  },
+  "signals": {
+    "mention_velocity_zscore": 0.05,
+    "unique_author_growth": 0.02,
+    "engagement_weighted_mentions": 0.05,
+    "meme_variant_growth": 0.0,
+    "cross_surface_spread": 0.0,
+    "contract_or_ticker_proximity": 0.2,
+    "holder_growth_signal": 0.7,
+    "liquidity_growth_signal": 0.8,
+    "bot_chaff_penalty": 0.05,
+    "whale_concentration_penalty": 0.2,
+    "wash_volume_penalty": 0.1
+  },
+  "snapshots": {
+    "t_minus_24h": {
+      "price": 0.001,
+      "liquidity": 12000,
+      "holders": 420,
+      "mentions_per_hour": 4
+    },
+    "t_plus_24h": {
+      "price_change_percent": 28.0,
+      "liquidity_change_percent": 25.0,
+      "new_holders": 90,
+      "unique_authors": 4
+    },
+    "t_plus_72h": {
+      "retained_holders": 62,
+      "top_10_holder_percent": 44.0
+    }
+  },
+  "expected": {
+    "verdict": "Chaff",
+    "rci_range": [18, 24]
+  }
+}

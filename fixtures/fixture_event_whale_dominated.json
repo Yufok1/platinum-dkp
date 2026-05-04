@@ -1,0 +1,50 @@
+{
+  "event": {
+    "event_id": "fixture_event_whale_dominated",
+    "name": "Whale Takes The Drum",
+    "timestamp_utc": "2026-05-04T22:00:00Z",
+    "origin_surface": "public_post",
+    "joke_phrase": "raid drum",
+    "token_ticker": "DKP",
+    "contract_address": "F61Njyf8faE4NwrEmByWcdp8M56UHGeVaaQJPFGopump",
+    "chain": "solana",
+    "media_artifact_links": [],
+    "meme_variants": ["raid drum"],
+    "confidence": "fixture"
+  },
+  "signals": {
+    "mention_velocity_zscore": 0.6,
+    "unique_author_growth": 0.5,
+    "engagement_weighted_mentions": 0.4,
+    "meme_variant_growth": 0.4,
+    "cross_surface_spread": 0.5,
+    "contract_or_ticker_proximity": 0.8,
+    "holder_growth_signal": 0.5,
+    "liquidity_growth_signal": 0.8,
+    "bot_chaff_penalty": 0.1,
+    "whale_concentration_penalty": 0.95,
+    "wash_volume_penalty": 0.3
+  },
+  "snapshots": {
+    "t_minus_24h": {
+      "price": 0.001,
+      "liquidity": 12000,
+      "holders": 420,
+      "mentions_per_hour": 6
+    },
+    "t_plus_24h": {
+      "price_change_percent": 31.0,
+      "liquidity_change_percent": 28.0,
+      "new_holders": 77,
+      "unique_authors": 52
+    },
+    "t_plus_72h": {
+      "retained_holders": 33,
+      "top_10_holder_percent": 82.0
+    }
+  },
+  "expected": {
+    "verdict": "Chaff",
+    "rci_range": [38, 43]
+  }
+}

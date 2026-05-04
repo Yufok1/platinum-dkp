@@ -40,6 +40,23 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 - `RAID_LAW_GLOSSARY.md` defines the shared dragon-slayer vocabulary.
 - `KNOWLEDGE_UPLOAD_MANIFEST.md` lists what to upload into a Custom GPT.
 - `SOURCES.md` holds reference links.
+- `wheatfarm/` is the local-only public-signal analytics MVP.
+- `fixtures/` contains mocked Wheat Farm events for Wheat / Chaff / Unclear tests.
+- `config/` contains approval policy and RCI weights.
+- `docs/WHEAT_FARM_ZEUS_IMPLEMENTATION_PLAN.md` records the ZEUS implementation scaffold.
+
+## Wheat Farm Local MVP
+
+Run from the repo root:
+
+```bash
+python -m wheatfarm fixtures list
+python -m wheatfarm rci score --fixture fixture_event_clean_wheat
+python -m wheatfarm receipt generate --fixture fixture_event_clean_wheat
+python -m unittest discover -s tests
+```
+
+This MVP is fixture-backed only. It does not scrape, trade, target wallets, coordinate buying, or call live external services.
 
 ## Authority Order
 
