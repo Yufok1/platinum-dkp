@@ -16,6 +16,7 @@ Upload these files into the Custom GPT Knowledge area.
 10. `APPEALS_AND_PATCH_NOTES.md`
 11. `PUBLIC_FAQ.md`
 12. `RAID_LAW_GLOSSARY.md`
+13. `WHEAT_FARM_RECEIPT_TEMPLATE.md`
 
 ## Optional
 
@@ -27,6 +28,12 @@ Upload these files into the Custom GPT Knowledge area.
 ## Brotology
 
 For Custom GPT Knowledge, upload the relevant Brotology docs directly.
+
+Recommended for the current meme analytics lane:
+
+1. `docs/brotology/WHEAT_FARM_CONTINUITY_IDEATION_REPORT_2026-05-04.md`
+2. `docs/brotology/RAY_VARIABLE_REGISTRY_AND_PI_BAG_AUDIO_EMOTES_2026-05-04.md`
+3. `docs/brotology/HANDO_SOUNDTRACK_GITHUB_FREE_LANE_2026-05-04.md`
 
 GitHub source:
 

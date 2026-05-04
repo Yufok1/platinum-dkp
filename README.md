@@ -35,6 +35,7 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 - `LAUNCH_ANNOUNCEMENT.md` is a launch post draft.
 - `ONE_PAGE_QUICKSTART.md` is the short version.
 - `TOKENIZED_AGENT_SETUP.md` defines the Pump tokenized-agent/payment setup path.
+- `WHEAT_FARM_RECEIPT_TEMPLATE.md` defines public-signal joke rebound analytics and receipt format.
 - `smartest.txt` is the creator manifest cheat sheet with tokenized-agent receipts.
 - `RAID_LAW_GLOSSARY.md` defines the shared dragon-slayer vocabulary.
 - `KNOWLEDGE_UPLOAD_MANIFEST.md` lists what to upload into a Custom GPT.

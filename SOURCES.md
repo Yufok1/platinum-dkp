@@ -30,6 +30,12 @@ Builder notes:
 - CFTC virtual currency pump-and-dump warning: https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/beware_virtual_currency_pump_dump.html
 - SEC staff statement on meme coins: https://www.sec.gov/newsroom/speeches-statements/staff-statement-meme-coins?s=09
 
+## Public Market And On-Chain Data
+
+- DEX Screener API reference: https://docs.dexscreener.com/api/reference
+- CoinGecko API overview: https://www.coingecko.com/en/api
+- CoinGecko on-chain analytics guide: https://docs.coingecko.com/defi-onchain-analytics
+
 ## Brotology
 
 - Brotology GitHub: https://github.com/Yufok1/Brotology-field-guide
