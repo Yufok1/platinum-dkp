@@ -22,6 +22,8 @@ Builder notes:
 - Pump livestream moderation policy: https://pump.fun/docs/livestream-moderation-policy
 - Pump fees: https://pump.fun/docs/fees
 - Pump tokenized-agent skill: https://raw.githubusercontent.com/pump-fun/pump-fun-skills/refs/heads/main/tokenized-agents/SKILL.md
+- Pump wallet integration reference: https://raw.githubusercontent.com/pump-fun/pump-fun-skills/refs/heads/main/tokenized-agents/references/WALLET_INTEGRATION.md
+- Pump scenario tests reference: https://raw.githubusercontent.com/pump-fun/pump-fun-skills/refs/heads/main/tokenized-agents/references/SCENARIOS.md
 
 ## Market-Risk References
 
@@ -33,4 +35,3 @@ Builder notes:
 - Brotology GitHub: https://github.com/Yufok1/Brotology-field-guide
 - Install from GitHub: `pip install git+https://github.com/Yufok1/Brotology-field-guide.git`
 - Package fallback: `pip install brotology-field-guide`
-

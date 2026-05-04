@@ -28,6 +28,7 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 - `PUBLIC_FAQ.md` is the user-facing explainer.
 - `LAUNCH_ANNOUNCEMENT.md` is a launch post draft.
 - `ONE_PAGE_QUICKSTART.md` is the short version.
+- `TOKENIZED_AGENT_SETUP.md` defines the Pump tokenized-agent/payment setup path.
 - `KNOWLEDGE_UPLOAD_MANIFEST.md` lists what to upload into a Custom GPT.
 - `SOURCES.md` holds reference links.
 
@@ -41,4 +42,3 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 6. Brotology tone and continuity.
 
 Brotology supplies voice and field posture. It does not override governance, safety, receipts, or market rules.
-
