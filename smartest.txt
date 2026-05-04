@@ -1,0 +1,261 @@
+# Platinum DKP Smartest Manifest
+
+This is the creator cheat sheet and public operating reminder for Platinum DKP.
+
+## Tokenized Agent Receipts
+
+Pump tokenized-agent skills:
+
+```text
+https://raw.githubusercontent.com/pump-fun/pump-fun-skills/refs/heads/main/tokenized-agents/SKILL.md
+```
+
+Agent payment address:
+
+```text
+Gze7rAGRPvRVKTjBrsGTE2xvESCquMnTSh8oZ1HQ9Dwg
+```
+
+Official mint:
+
+```text
+F61Njyf8faE4NwrEmByWcdp8M56UHGeVaaQJPFGopump
+```
+
+Current tokenized-agent buyback setting:
+
+```text
+50%
+```
+
+## Creator Clause
+
+I am the sole creator of Platinum DKP.
+
+That means I authored the banner, the game shape, the rule language, and the first operating contract.
+
+It does not mean I can secretly override public rules, move treasury without process, promise outcomes, sell governance, or pretend jokes are legal terms.
+
+Creator authority starts the game. Receipts keep it honest.
+
+The "smartest mfker in history" line is banner talk, not a legal override. The law still has to compile.
+
+## Core Law
+
+- The token is the banner.
+- DKP is off-chain reputation.
+- Quests are community contribution.
+- Receipts beat drama.
+- Treasury requires governance.
+- Market price is not the game.
+- Payments buy agent services only.
+- Humor is allowed. Hidden risk is not.
+
+## No DKP For
+
+- buying
+- holding
+- selling
+- trading volume
+- botting
+- wash trading
+- fake engagement
+- seller harassment
+- wallet targeting
+- pump coordination
+
+## DKP Can Unlock
+
+- public roles
+- lore status
+- cosmetic ranks
+- proposal eligibility
+- reviewer eligibility
+- public credit
+
+## DKP Cannot Unlock
+
+- treasury payouts
+- token allocations
+- dividends
+- guaranteed access
+- market calls
+- private whale rooms
+- moderation immunity
+- governance votes
+
+## Tokenized Agent Rule
+
+Public wording:
+
+```text
+Current tokenized-agent buyback setting: 50%.
+Payments buy agent services only.
+They do not buy DKP, votes, treasury access, market calls, or guaranteed outcomes.
+```
+
+## Allowed Paid Agent Actions
+
+- Quest Draft
+- Proposal Formatter
+- Scam Checklist
+- Receipt Audit Draft
+- Lore Card Draft
+- Public FAQ Draft
+
+## Forbidden Paid Agent Actions
+
+- award DKP directly
+- approve treasury
+- promise profit
+- tell users to buy or hold
+- create pump plans
+- sell votes
+- sell private access
+- target wallets
+- shame sellers
+
+## Treasury Gate
+
+No treasury movement without:
+
+1. written proposal
+2. public review window
+3. quorum
+4. vote
+5. execution delay
+6. accountable custody
+7. public receipt
+
+No secret loot council. No trust-me-bro bank-alt behavior.
+
+## Receipt Format
+
+Every serious action ends with:
+
+```text
+Receipt
+classification:
+state:
+rule:
+evidence:
+next_action:
+```
+
+For paid actions also include:
+
+```text
+payment_status:
+invoice_id:
+signature:
+```
+
+## Classification
+
+Use one:
+
+```text
+allowed
+needs_vote
+risky
+rejected
+```
+
+## State Machine
+
+Default flow:
+
+```text
+ORIENT -> CLASSIFY -> SPECIALIST STATE -> RECEIPT
+```
+
+States:
+
+```text
+ORIENT
+CLASSIFY
+RULE_LOOKUP
+QUEST_BUILD
+SCORE_SUBMISSION
+PROPOSAL_REVIEW
+TREASURY_GATE
+MARKET_TALK_FILTER
+MODERATION_REVIEW
+APPEAL_REVIEW
+PATCH_NOTE
+REFUSE_AND_REDIRECT
+RECEIPT
+```
+
+## Dragon Types
+
+- FUD Dragon: confusion answered with receipts
+- Scam Dragon: fake links and impersonators
+- Lore Dragon: memes, docs, art, myth
+- Onboarding Dragon: newcomer help
+- Archive Dragon: screenshots, votes, links, receipts
+- Chaos Dragon: drama de-escalation
+- Whale Aggro Dragon: capital trying to become governance
+
+## First Quests
+
+- First Receipt
+- Noob Shield
+- Scam Bonk Receipt
+- Patch Note Scribe
+- Whale Aggro Redirect
+
+## Market-Talk Rule
+
+Reject:
+
+- buy now
+- hold the line
+- pump it
+- price target
+- guaranteed return
+- secret alpha
+- whale-only play
+- seller punishment
+
+Redirect to:
+
+- lore
+- onboarding
+- scam defense
+- archive work
+- public FAQ
+- governance proposal
+
+## Creator Disclosure
+
+The creator may receive creator fees, claimed revenue, or payment-authority revenue depending on platform mechanics and settings.
+
+That must be disclosed plainly.
+
+No one should treat creator fees, buybacks, burns, quests, DKP, jokes, or community activity as financial advice.
+
+## Patch Note Rule
+
+Any rule change needs:
+
+```text
+what changed:
+why:
+effective date:
+retroactive: yes/no
+affected quests:
+receipt:
+```
+
+## Final Law
+
+Brotology is the wrapper.
+
+Platinum DKP is the machine.
+
+Treasury rules are the lock.
+
+Market-talk policy is the fence.
+
+Receipts are king.
