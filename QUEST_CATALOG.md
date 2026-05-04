@@ -1,5 +1,11 @@
 # Quest Catalog
 
+Quests are raid work. The point is useful contribution with proof, not market noise.
+
+```text
+We are the fire that binds.
+```
+
 ## Quest Template
 
 ```text
@@ -15,6 +21,8 @@ Receipt link:
 ```
 
 ## Dragon Types
+
+The dragon taxonomy names the problem class before the raid swings at it.
 
 ### FUD Dragon
 
@@ -187,4 +195,3 @@ Cooldown: once per incident.
 Abuse cases: harassment, exposing private identity, escalating conflict.
 
 Reviewer: governance moderator.
-

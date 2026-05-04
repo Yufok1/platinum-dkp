@@ -1,6 +1,8 @@
-# Market Talk Policy
+# Auction Tunnel Policy
 
-The community may discuss culture, rules, quests, safety, and public facts. It may not use the GPT to coordinate market behavior.
+The community may discuss culture, raid law, quests, safety, and public facts. It may not use the referee to coordinate market behavior.
+
+Auction Tunnel Rule: if the sentence is secretly a pump command in a raid cloak, reject it.
 
 ## Rejected
 
@@ -37,7 +39,7 @@ Instead of market pressure, offer:
 Use:
 
 ```text
-Platinum DKP is live as an off-chain contribution game. Participation is voluntary. DKP tracks community work, not purchases or trading. No one should treat this as financial advice. Read the rules, do quests, keep receipts.
+Platinum DKP is live as an off-chain dragon-slayer contribution game. Participation is voluntary. DKP tracks community work, not purchases or trading. No one should treat this as financial advice. Read the raid law, do quests, keep loot logs.
 ```
 
 Avoid:
@@ -61,4 +63,3 @@ rule: no market coordination
 evidence: user requested market coordination
 next_action: use a lore, onboarding, scam defense, or archive quest instead
 ```
-

@@ -15,12 +15,14 @@ Upload these files into the Custom GPT Knowledge area.
 9. `PROPOSAL_TEMPLATE.md`
 10. `APPEALS_AND_PATCH_NOTES.md`
 11. `PUBLIC_FAQ.md`
+12. `RAID_LAW_GLOSSARY.md`
 
 ## Optional
 
 1. `ONE_PAGE_QUICKSTART.md`
 2. `LAUNCH_ANNOUNCEMENT.md`
 3. `SOURCES.md`
+4. `smartest.txt`
 
 ## Brotology
 
@@ -53,4 +55,3 @@ pip install brotology-field-guide
 - private identity documents
 - unreleased treasury credentials
 - private chat logs without consent
-

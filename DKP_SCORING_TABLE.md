@@ -1,6 +1,6 @@
 # DKP Scoring Table
 
-DKP is reputation for contribution. It is not a claim on tokens, treasury, returns, or market access.
+DKP is the honor ledger for contribution. It is not a claim on tokens, treasury, returns, or market access.
 
 ## Bands
 
@@ -10,7 +10,7 @@ DKP is reputation for contribution. It is not a claim on tokens, treasury, retur
 | Bronze | 5-15 | Basic quest, newcomer help, small receipt |
 | Silver | 15-30 | Good contribution with proof |
 | Gold | 30-60 | High-signal work, scam defense, major doc pass |
-| Platinum | 60-100 | Rare, durable contribution with strong evidence |
+| Platinum | 60-100 | Rare dragon-slayer work with strong evidence |
 
 ## Multipliers
 
@@ -35,7 +35,7 @@ Rejected:
 
 ## Review Checklist
 
-Before awarding DKP:
+Before writing to the honor ledger:
 
 1. Is the quest valid?
 2. Is proof present?
@@ -66,4 +66,3 @@ Suggested threshold:
 50+ DKP requires two reviewers
 100+ DKP requires governance note
 ```
-

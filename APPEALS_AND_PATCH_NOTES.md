@@ -1,4 +1,8 @@
-# Appeals And Patch Notes
+# Appeals And Patch Day Law
+
+```text
+We are the fire that binds.
+```
 
 ## Appeals
 
@@ -24,7 +28,7 @@ Appeal outcomes:
 - needs vote
 - more evidence required
 
-## Patch Notes
+## Patch Day Law
 
 Rule changes must be visible.
 
@@ -53,5 +57,4 @@ v0.2 quest scoring update
 v0.3 treasury gate clarification
 ```
 
-Never silently change rules after a dispute starts. That is how tabletop arguments become archaeology.
-
+Never silently change rules after a dispute starts. That is how raid arguments become archaeology.

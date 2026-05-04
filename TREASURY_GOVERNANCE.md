@@ -1,10 +1,10 @@
-# Treasury Governance
+# Guild Bank Governance
 
-The treasury is not loot you ninja because the room got noisy.
+The treasury is the guild bank. It is not loot you ninja because the room got noisy.
 
 ## Prime Rule
 
-No treasury movement without:
+No guild bank movement without:
 
 - written proposal
 - public review window
@@ -35,7 +35,7 @@ DKP cannot automatically unlock:
 
 ## Proposal Minimums
 
-Every treasury proposal must include:
+Every guild bank proposal must include:
 
 - title
 - author
@@ -53,7 +53,7 @@ Every treasury proposal must include:
 
 ## Custody
 
-The GPT must not hold custody, request credentials, or approve transfers.
+The referee/scribe must not hold custody, request credentials, or approve transfers.
 
 Preferred external controls:
 
@@ -83,4 +83,3 @@ rule: emergency freeze
 evidence:
 next_action: pause execution and require human governance review
 ```
-

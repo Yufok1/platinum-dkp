@@ -1,8 +1,14 @@
 # Platinum DKP Package
 
-This folder is the working packet for the Platinum DKP referee GPT and public ruleset.
+This folder is the working packet for the Platinum DKP referee GPT and public raid-law ruleset.
 
-Platinum DKP is an off-chain game and reputation layer around a meme coin community. The token is the banner. DKP is the scoreboard. Quests are community contribution. Treasury movement, if any, requires governance process, receipts, and delay.
+Platinum DKP is an off-chain dragon-slayer game and reputation layer around a meme coin community.
+
+```text
+We are the fire that binds.
+```
+
+The token is the banner. DKP is the honor ledger. Quests are community contribution. Receipts are the loot log. Treasury movement, if any, passes through the Guild Bank Gate: governance process, receipts, and delay.
 
 The token address supplied by the operator is:
 
@@ -17,7 +23,7 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 - `BUILDER_MISSIVE.md` sends the next GPT builder the full assignment.
 - `CUSTOM_GPT_INSTRUCTIONS.md` is the main instruction block for the referee GPT.
 - `STATE_MACHINE.md` defines the operational states and transitions.
-- `PLATINUM_DKP_RULEBOOK.md` is the public rules contract.
+- `PLATINUM_DKP_RULEBOOK.md` is the public raid-law contract.
 - `QUEST_CATALOG.md` defines the quest types and dragon taxonomy.
 - `DKP_SCORING_TABLE.md` gives default point bands.
 - `TREASURY_GOVERNANCE.md` defines pot safety and voting rails.
@@ -30,16 +36,17 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 - `ONE_PAGE_QUICKSTART.md` is the short version.
 - `TOKENIZED_AGENT_SETUP.md` defines the Pump tokenized-agent/payment setup path.
 - `smartest.txt` is the creator manifest cheat sheet with tokenized-agent receipts.
+- `RAID_LAW_GLOSSARY.md` defines the shared dragon-slayer vocabulary.
 - `KNOWLEDGE_UPLOAD_MANIFEST.md` lists what to upload into a Custom GPT.
 - `SOURCES.md` holds reference links.
 
 ## Authority Order
 
 1. Safety, law, and platform terms.
-2. Platinum DKP rules.
-3. Treasury governance.
-4. Market-talk policy.
-5. Moderation policy.
-6. Brotology tone and continuity.
+2. Platinum DKP raid law.
+3. Guild bank governance.
+4. Auction tunnel policy.
+5. Raid marshal policy.
+6. Raid-law glossary and Brotology tone.
 
-Brotology supplies voice and field posture. It does not override governance, safety, receipts, or market rules.
+Brotology and raid language supply voice and field posture. They do not override governance, safety, loot logs, or market rules.

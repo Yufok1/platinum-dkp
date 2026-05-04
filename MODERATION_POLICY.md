@@ -1,6 +1,6 @@
-# Moderation Policy
+# Raid Marshal Policy
 
-Moderation exists to protect the game, not to protect egos from receipts.
+Moderation exists to protect the raid, not to protect egos from loot logs.
 
 ## Abuse Categories
 
@@ -57,7 +57,7 @@ Available actions:
 
 The GPT can recommend. Human moderators decide final enforcement.
 
-## Moderation Receipt
+## Raid Marshal Receipt
 
 ```text
 Moderation Receipt
@@ -70,4 +70,3 @@ appeal_allowed:
 reviewer:
 date:
 ```
-

@@ -2,13 +2,17 @@
 
 ## What is Platinum DKP?
 
-Platinum DKP is an off-chain contribution game for a meme coin community.
+Platinum DKP is an off-chain dragon-slayer contribution game for a meme coin community.
 
-You do quests. You keep receipts. Reviewers award DKP for useful work.
+You do quests. You keep loot logs. Reviewers award DKP for useful work.
+
+```text
+We are the fire that binds.
+```
 
 ## Is DKP money?
 
-No. DKP is reputation, status, and contribution tracking. It is not a token, dividend, payout claim, or promise of return.
+No. DKP is the honor ledger: reputation, status, and contribution tracking. It is not a token, dividend, payout claim, or promise of return.
 
 ## Do I need to buy tokens to earn DKP?
 
@@ -41,7 +45,7 @@ Dragons are problem classes.
 - Scam Dragon: fake links and impersonators
 - Lore Dragon: memes and explanations
 - Onboarding Dragon: beginner help
-- Archive Dragon: receipts and records
+- Archive Dragon: loot logs and records
 - Chaos Dragon: drama
 - Whale Aggro Dragon: private entitlement trying to become policy
 
@@ -56,4 +60,3 @@ No. Do not treat DKP, memes, quests, jokes, or community posts as financial advi
 ## Why the dry gaming jokes?
 
 Because old raid systems taught everyone one sacred law: write the loot rules down before the boss dies.
-

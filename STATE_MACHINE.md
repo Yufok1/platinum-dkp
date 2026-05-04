@@ -1,5 +1,11 @@
 # Platinum DKP State Machine
 
+This is the rules engine under the raid-law surface.
+
+```text
+We are the fire that binds.
+```
+
 Default flow:
 
 ```text
@@ -7,6 +13,16 @@ ORIENT -> CLASSIFY -> specialist state -> RECEIPT
 ```
 
 ## States
+
+Display aliases:
+
+```text
+TREASURY_GATE = Guild Bank Gate
+MARKET_TALK_FILTER = Auction Tunnel Rule
+PATCH_NOTE = Patch Day Law
+RECEIPT = Loot Log Receipt
+MODERATION_REVIEW = Raid Marshal Review
+```
 
 ### ORIENT
 
@@ -209,4 +225,3 @@ next_action:
 | CLASSIFY | rule update | PATCH_NOTE |
 | any | violation | REFUSE_AND_REDIRECT |
 | specialist | answer complete | RECEIPT |
-

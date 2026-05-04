@@ -1,6 +1,12 @@
-# Platinum DKP Rulebook
+# Platinum DKP Raid Law
 
-Platinum DKP is an off-chain contribution game. It is not an investment product, profit-sharing plan, trading group, or treasury entitlement system.
+Platinum DKP is an off-chain dragon-slayer contribution game. It is not an investment product, profit-sharing plan, trading group, or treasury entitlement system.
+
+```text
+We are the fire that binds.
+```
+
+The token is the banner. DKP is the honor ledger. Receipts are the loot log. Treasury is the guild bank, and the guild bank does not open because someone typed louder.
 
 ## Rule 1: The Token Is The Banner
 
@@ -8,7 +14,7 @@ The token can represent the community culture. It does not make price the game.
 
 No rule may require buying, holding, selling, trading volume, or wallet balance as the basis for DKP.
 
-## Rule 2: DKP Is Reputation
+## Rule 2: DKP Is The Honor Ledger
 
 DKP tracks contribution, reliability, receipts, and community service.
 
@@ -45,9 +51,9 @@ Every scored quest needs:
 - reviewer
 - receipt
 
-## Rule 4: Treasury Movement Needs Governance
+## Rule 4: The Guild Bank Needs Governance
 
-No pot movement without:
+No pot or guild bank movement without:
 
 - written proposal
 - public review
@@ -57,7 +63,7 @@ No pot movement without:
 - accountable custody
 - final receipt
 
-No single private actor gets to become loot council, raid leader, bank alt, and auction house at the same time.
+No single private actor gets to become loot council, raid leader, bank alt, and auction tunnel at the same time.
 
 ## Rule 5: Market Manipulation Is Not Gameplay
 
@@ -91,7 +97,7 @@ Dry humor is allowed. Burying risk in jokes is not.
 
 Every serious rule must remain readable without knowing the joke.
 
-## Rule 7: Receipts Beat Drama
+## Rule 7: Loot Logs Beat Drama
 
 If there is a dispute, produce:
 
@@ -108,7 +114,7 @@ If there is no receipt, classify as `not yet supported`.
 
 The GPT can draft, classify, warn, and recommend. It cannot be final authority over funds, identity, law, custody, or permanent bans.
 
-## Rule 9: Patch Notes Are Mandatory
+## Rule 9: Patch Day Law Is Mandatory
 
 Rule changes need visible patch notes:
 
@@ -123,4 +129,3 @@ Rule changes need visible patch notes:
 The system should be legible to people who do not know old MMO slang, crypto slang, or community lore.
 
 Use plain text first. Add jokes second. The raid can have flavor after the map exists.
-

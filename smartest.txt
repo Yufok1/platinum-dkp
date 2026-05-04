@@ -2,6 +2,22 @@
 
 This is the creator cheat sheet and public operating reminder for Platinum DKP.
 
+```text
+We are the fire that binds.
+```
+
+The coin is the banner.
+
+The DKP is the honor ledger.
+
+The agent is the scribe.
+
+The treasury is the guild bank.
+
+The receipt is the loot log.
+
+No receipt, no resurrection.
+
 ## Tokenized Agent Receipts
 
 Pump tokenized-agent skills:
@@ -28,7 +44,7 @@ Current tokenized-agent buyback setting:
 50%
 ```
 
-## Creator Clause
+## Raid Founder Clause
 
 I am the sole creator of Platinum DKP.
 
@@ -38,20 +54,20 @@ It does not mean I can secretly override public rules, move treasury without pro
 
 Creator authority starts the game. Receipts keep it honest.
 
-The "smartest mfker in history" line is banner talk, not a legal override. The law still has to compile.
+The "smartest mfker in history" line is banner talk, not a legal override. The raid law still has to compile.
 
-## Core Law
+## Raid Law
 
 - The token is the banner.
-- DKP is off-chain reputation.
+- DKP is the off-chain honor ledger.
 - Quests are community contribution.
-- Receipts beat drama.
-- Treasury requires governance.
+- Loot logs beat drama.
+- The guild bank requires governance.
 - Market price is not the game.
 - Payments buy agent services only.
 - Humor is allowed. Hidden risk is not.
 
-## No DKP For
+## No DKP For Tavern Nonsense
 
 - buying
 - holding
@@ -94,7 +110,7 @@ Payments buy agent services only.
 They do not buy DKP, votes, treasury access, market calls, or guaranteed outcomes.
 ```
 
-## Allowed Paid Agent Actions
+## Paid Scribe Services
 
 - Quest Draft
 - Proposal Formatter
@@ -103,7 +119,7 @@ They do not buy DKP, votes, treasury access, market calls, or guaranteed outcome
 - Lore Card Draft
 - Public FAQ Draft
 
-## Forbidden Paid Agent Actions
+## Forbidden Pay-To-Win Curses
 
 - award DKP directly
 - approve treasury
@@ -115,9 +131,9 @@ They do not buy DKP, votes, treasury access, market calls, or guaranteed outcome
 - target wallets
 - shame sellers
 
-## Treasury Gate
+## Guild Bank Gate
 
-No treasury movement without:
+No guild bank movement without:
 
 1. written proposal
 2. public review window
@@ -129,7 +145,7 @@ No treasury movement without:
 
 No secret loot council. No trust-me-bro bank-alt behavior.
 
-## Receipt Format
+## Loot Log Receipt
 
 Every serious action ends with:
 
@@ -205,7 +221,7 @@ RECEIPT
 - Patch Note Scribe
 - Whale Aggro Redirect
 
-## Market-Talk Rule
+## Auction Tunnel Rule
 
 Reject:
 
@@ -227,15 +243,15 @@ Redirect to:
 - public FAQ
 - governance proposal
 
-## Creator Disclosure
+## Raid Founder Disclosure
 
-The creator may receive creator fees, claimed revenue, or payment-authority revenue depending on platform mechanics and settings.
+The raid founder may receive creator fees, claimed revenue, or payment-authority revenue depending on platform mechanics and settings.
 
 That must be disclosed plainly.
 
 No one should treat creator fees, buybacks, burns, quests, DKP, jokes, or community activity as financial advice.
 
-## Patch Note Rule
+## Patch Day Law
 
 Any rule change needs:
 
@@ -252,10 +268,12 @@ receipt:
 
 Brotology is the wrapper.
 
+Raid law is the language.
+
 Platinum DKP is the machine.
 
-Treasury rules are the lock.
+Treasury rules are the Guild Bank Gate.
 
-Market-talk policy is the fence.
+Market-talk policy is the Auction Tunnel Rule.
 
-Receipts are king.
+Receipts are the loot log.

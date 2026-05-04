@@ -2,6 +2,10 @@
 
 Use this when Platinum DKP should run outside a Custom GPT.
 
+```text
+We are the fire that binds.
+```
+
 ## Goal
 
 Run the same referee contract as a Hugging Face Space, local model wrapper, or simple Python service.
@@ -14,6 +18,7 @@ The authority docs are:
 - `TREASURY_GOVERNANCE.md`
 - `MODERATION_POLICY.md`
 - `QUEST_CATALOG.md`
+- `RAID_LAW_GLOSSARY.md`
 
 ## Minimal Runtime Shape
 
@@ -37,6 +42,7 @@ TREASURY_GOVERNANCE.md
 MARKET_TALK_POLICY.md
 MODERATION_POLICY.md
 DKP_SCORING_TABLE.md
+RAID_LAW_GLOSSARY.md
 ```
 
 Despite the filename, `CUSTOM_GPT_INSTRUCTIONS.md` is mostly a portable referee prompt. If deploying on Hugging Face, rename it or copy its contents into the system prompt for the local model.
@@ -87,4 +93,3 @@ next_action
 Do not put private keys, seed phrases, API secrets, treasury credentials, or wallet credentials into Hugging Face repository files, Space variables, public logs, or model context.
 
 Use secrets only for service credentials the Space needs, never for wallet custody.
-

@@ -1,6 +1,10 @@
 # Proposal Template
 
-Use this for governance, rule changes, treasury requests, reviewer appointments, and major quest expansions.
+Use this for governance, rule changes, guild bank requests, reviewer appointments, and major quest expansions.
+
+```text
+We are the fire that binds.
+```
 
 ```text
 Proposal title:
@@ -43,7 +47,7 @@ Rollback plan:
 
 - rule change
 - new quest line
-- treasury request
+- guild bank request
 - reviewer appointment
 - moderation escalation
 - appeal decision
@@ -59,4 +63,3 @@ Every proposal must be classified:
 - `rejected`
 
 Treasury requests should normally classify as `needs_vote`.
-

@@ -2,7 +2,11 @@
 
 ## The Door
 
-Platinum DKP is a community contribution game.
+Platinum DKP is a dragon-slayer community contribution game.
+
+```text
+We are the fire that binds.
+```
 
 Token:
 
@@ -14,11 +18,11 @@ Verify before official publication.
 
 ## The Rules
 
-- DKP is off-chain reputation.
+- DKP is the off-chain honor ledger.
 - DKP is not money.
 - Quests need proof.
-- Receipts beat drama.
-- Treasury needs governance.
+- Loot logs beat drama.
+- The guild bank needs governance.
 - Market manipulation is not gameplay.
 - Humor is allowed. Hidden risk is not.
 
@@ -47,7 +51,7 @@ Reviewer: approved reviewer
 - seller harassment
 - whale-only privileges
 
-## Receipt Format
+## Loot Log Receipt
 
 ```text
 Receipt
@@ -60,5 +64,4 @@ next_action:
 
 ## Tiny Law
 
-Brotology is the wrapper. Platinum DKP is the machine. Treasury rules are the lock. Market-talk policy is the fence. Receipts are king.
-
+Brotology is the wrapper. Raid law is the language. Platinum DKP is the machine. Treasury rules are the Guild Bank Gate. Market-talk policy is the Auction Tunnel Rule. Receipts are the loot log.

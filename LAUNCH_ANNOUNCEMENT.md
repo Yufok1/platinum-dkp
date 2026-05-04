@@ -2,9 +2,13 @@
 
 Platinum DKP is live.
 
-This is an off-chain contribution game for the community. The token is the banner. DKP is the scoreboard. Quests are the work. Receipts are the law.
+```text
+We are the fire that binds.
+```
 
-No one earns DKP for buying, holding, selling, trading volume, botting, wash trading, fake engagement, or yelling at sellers like the auction house owes them emotional closure.
+This is an off-chain dragon-slayer contribution game for the community. The token is the banner. DKP is the honor ledger. Quests are the raid work. Receipts are the loot log.
+
+No one earns DKP for buying, holding, selling, trading volume, botting, wash trading, fake engagement, or yelling at sellers like the auction tunnel owes them emotional closure.
 
 You earn DKP by helping:
 
@@ -20,7 +24,7 @@ Treasury movement, if any, requires proposal, review, quorum, vote, delay, custo
 
 This is not financial advice. This is a ruleset for community play.
 
-Read the rules. Pick a quest. Keep receipts.
+Read the raid law. Pick a quest. Keep loot logs.
 
 Receipt
 classification: allowed
@@ -28,4 +32,3 @@ state: RULE_LOOKUP
 rule: DKP is contribution reputation, not market coordination
 evidence: public launch rules
 next_action: publish rulebook and first quest board
-

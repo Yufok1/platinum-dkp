@@ -2,7 +2,11 @@
 
 This packet is local project material. It does not require OpenAI to exist.
 
-The rules, state machine, quest catalog, scoring table, treasury governance, market-talk policy, and moderation policy are portable Markdown. They can be used in:
+```text
+We are the fire that binds.
+```
+
+The raid law, state machine, quest catalog, scoring table, guild bank governance, auction tunnel policy, and raid marshal policy are portable Markdown. They can be used in:
 
 - Hugging Face Spaces
 - local model wrappers
@@ -26,12 +30,12 @@ It can be renamed or adapted into any model's system prompt.
 Authority order:
 
 1. Safety, law, and platform terms.
-2. Platinum DKP rulebook.
-3. Treasury governance.
-4. Market-talk policy.
-5. Moderation policy.
+2. Platinum DKP raid law.
+3. Guild bank governance.
+4. Auction tunnel policy.
+5. Raid marshal policy.
 6. State machine.
-7. Brotology tone.
+7. Raid-law glossary and Brotology tone.
 
 No vendor, model, chatbot, or UI wrapper outranks the rules.
 
@@ -49,4 +53,3 @@ Do not upload:
 - private treasury notes
 
 If a secret is exposed, rotate it. Do not ask the model to remember it.
-

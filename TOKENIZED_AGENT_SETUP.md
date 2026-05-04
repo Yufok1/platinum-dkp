@@ -2,12 +2,16 @@
 
 This file is the concrete setup path for a Platinum DKP tokenized agent.
 
+```text
+We are the fire that binds.
+```
+
 There are two related surfaces:
 
 1. Pump's Tokenized Agent setting for tokens, including agent deposit behavior and automated buyback/burn mechanics.
 2. The `@pump-fun/agent-payments-sdk` flow for charging users for agent actions and verifying invoice payment on-chain.
 
-Do not blur them. The setting is not magic AI. The SDK is a payment/invoice lane. Platinum DKP rules still control what the agent is allowed to sell, say, unlock, or score.
+Do not blur them. The setting is not magic AI. The SDK is a payment/invoice lane. Platinum DKP raid law still controls what the agent is allowed to sell, say, unlock, or score.
 
 ## Current Token
 
@@ -51,9 +55,9 @@ https://rpc.ankr.com/solana
 
 Do not silently pick one in code. Put it in environment variables.
 
-## Allowed Paid Actions
+## Paid Scribe Services
 
-Good paid actions:
+Good paid scribe services:
 
 - generate a quest draft
 - submit a proposal for review
@@ -63,7 +67,7 @@ Good paid actions:
 - format a governance proposal
 - produce a public FAQ answer
 
-Bad paid actions:
+Forbidden pay-to-win curses:
 
 - buy/sell/hold advice
 - price predictions
@@ -75,7 +79,7 @@ Bad paid actions:
 - private whale privileges
 - guaranteed outcomes
 
-Paid access buys a service request. It does not buy governance, DKP, treasury, or market advantage.
+Paid access buys a scribe service request. It does not buy governance, DKP, guild bank access, or market advantage.
 
 ## Environment Variables
 
@@ -116,7 +120,7 @@ Install the payment SDK and compatible Solana library:
 npm install @pump-fun/agent-payments-sdk@3.0.2 @solana/web3.js@^1.98.0
 ```
 
-For a browser wallet UI, install wallet adapter packages using versions compatible with the SDK dependency tree. Do not blindly install every latest package and then act surprised when the auction house catches fire.
+For a browser wallet UI, install wallet adapter packages using versions compatible with the SDK dependency tree. Do not blindly install every latest package and then act surprised when the auction tunnel catches fire.
 
 ## Server Flow
 
@@ -169,7 +173,7 @@ repeat up to 10 times
 fail closed if not verified
 ```
 
-Fail closed means: no verified payment, no paid service. The loot window is not a suggestion box.
+Fail closed means: no verified payment, no paid scribe service. The loot window is not a suggestion box.
 
 ## Pump Tokenized Agent Setting Notes
 
@@ -247,4 +251,3 @@ whale access
 - market-talk policy wired into the agent
 - treasury gate wired into the agent
 - receipts appended to every output
-
