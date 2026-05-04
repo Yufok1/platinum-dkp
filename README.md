@@ -1,5 +1,9 @@
 # Platinum DKP Package
 
+Start here first:
+
+- `START_HERE.md`
+
 This folder is the working packet for the Platinum DKP referee GPT and public raid-law ruleset.
 
 Platinum DKP is an off-chain dragon-slayer game and reputation layer around a meme coin community.
@@ -40,6 +44,7 @@ Status: user-provided. Verify live before publishing anywhere that implies offic
 - `RAID_LAW_GLOSSARY.md` defines the shared dragon-slayer vocabulary.
 - `KNOWLEDGE_UPLOAD_MANIFEST.md` lists what to upload into a Custom GPT.
 - `SOURCES.md` holds reference links.
+- `START_HERE.md` is the plain-English 90-second public door.
 - `wheatfarm/` is the local-only public-signal analytics MVP.
 - `fixtures/` contains mocked Wheat Farm events for Wheat / Chaff / Unclear tests.
 - `config/` contains approval policy and RCI weights.
